@@ -1,7 +1,7 @@
 data_source:
   type: "csv"
   parameters:
-    path: "src/main/resources/sample/transactions.csv"
+    path: "src/main/resources/transactions.csv"
     date_format: "ISO_OFFSET_DATE_TIME"
 
 filters:
